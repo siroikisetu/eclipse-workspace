@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+class|D:\eclipse-workspace\testpy\src\class.py
+class2|D:\eclipse-workspace\testpy\src\class2.py
+datetime_test|D:\eclipse-workspace\testpy\src\datetime_test.py
+doctest_t|D:\eclipse-workspace\testpy\src\doctest_t.py
+os_module|D:\eclipse-workspace\testpy\src\os_module.py
+pickle_t|D:\eclipse-workspace\testpy\src\pickle_t.py
+string_m|D:\eclipse-workspace\testpy\src\string_m.py
+test|D:\eclipse-workspace\testpy\src\test.py
+url_test|D:\eclipse-workspace\testpy\src\url_test.py
+yield_test|D:\eclipse-workspace\testpy\src\yield_test.py

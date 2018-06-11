@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;newlbmlist/src/createspd&apos;" deleteContents="false" description="Delete resource &apos;newlbmlist/src/createspd&apos;" element1="/newlbmlist/src/createspd" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1523956936997"/>
+</session>

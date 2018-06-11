@@ -1,0 +1,19 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\webapp\com.python.pydev.analysis\v2_indexcache
+app|1527672410772533000|D:\eclipse-workspace\webapp\src\app.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=app
+1=D:\eclipse-workspace\webapp\src\app.py
+-- END DICTIONARY
+-- START TREE 1
+3
+ind|1|index!1^8#5*18@
+ini|1|init!1^12#5*18@
+loo|1|loop!1^19#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,4 @@
+MODULES_MANAGER_V2
+client|D:\eclipse-workspace\socket_t\src\client.py
+server|D:\eclipse-workspace\socket_t\src\server.py
+server2|D:\eclipse-workspace\socket_t\src\server2.py

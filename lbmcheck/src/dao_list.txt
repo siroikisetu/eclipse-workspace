@@ -1,0 +1,13 @@
+dao_cuacctfund.sqx
+dao_otcattinfo.sqx
+dao_otccfmtrds.sqx
+dao_otcchkresult.sqx
+dao_otccusttrdpwd.sqx
+dao_otcinstassetlog.sqx
+dao_otcinstcalendar.sqx
+dao_otcinstriskitf.sqx
+dao_otcinsttypesizelimit.sqx
+dao_otctcretinfo.sqx
+dao_otctrdid.sqx
+dao_reservecuacct.sqx
+cnt = 12

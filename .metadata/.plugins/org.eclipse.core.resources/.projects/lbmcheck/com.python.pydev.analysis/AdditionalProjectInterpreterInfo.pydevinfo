@@ -1,0 +1,28 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\lbmcheck\com.python.pydev.analysis\v2_indexcache
+lbmcheck2|1517885954854787000|D:\eclipse-workspace\lbmcheck\src\lbmcheck2.py
+lbmcheck3|1518086203902745000|D:\eclipse-workspace\lbmcheck\src\lbmcheck3.py
+daocheck|1519636377047527000|D:\eclipse-workspace\lbmcheck\src\daocheck.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+2=lbmcheck2
+4=lbmcheck3
+3=D:\eclipse-workspace\lbmcheck\src\lbmcheck3.py
+5=D:\eclipse-workspace\lbmcheck\src\daocheck.py
+1=D:\eclipse-workspace\lbmcheck\src\lbmcheck2.py
+6=daocheck
+-- END DICTIONARY
+-- START TREE 1
+6
+cnt|3|cnt!1^11#1*19@cnt!3^23#1*35@cnt!5^11#1*51@
+exi|3|exist_lbm!1^16#9*19@exist_lbm!3^28#13*35@exist_lbm!5^16#13*51@
+fin|1|findlbmmodule!3^5#5*34@
+lbm|14|lbm_file_name!1^15#9*19@lbm_path_new!5^6#1*51@lbm_list!5^7#1*51@lbm_path_old!3^17#1*35@lbm_path_old!1^5#1*19@lbm_list!1^7#1*19@lbm_name!3^31#17*35@lbm_name!1^18#13*19@lbm_list!3^19#1*35@lbm_path_old!5^5#1*51@lbm_file_name!5^15#13*51@lbm_path_new!3^18#1*35@lbm_path_new!1^6#1*19@lbm_file_name!3^27#13*35@
+mod|3|module!1^19#13*19@module!5^17#13*51@module!3^29#13*35@
+pos|1|pos!1^22#21*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

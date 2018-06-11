@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\newlbmlist\com.python.pydev.analysis\v2_indexcache
+createspd|1524131818283662000|D:\eclipse-workspace\newlbmlist\src\createspd.py
+findcase|1518078682572079000|D:\eclipse-workspace\newlbmlist\src\findcase.py
+mylbm|1517479916605182000|D:\eclipse-workspace\newlbmlist\src\mylbm.py
+createlbmlist|1517477094026917000|D:\eclipse-workspace\newlbmlist\src\createlbmlist.py
+findcase2|1518141861325549000|D:\eclipse-workspace\newlbmlist\src\findcase2.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+9=D:\eclipse-workspace\newlbmlist\src\createspd.py
+10=createspd
+2=findcase
+6=mylbm
+8=createlbmlist
+5=D:\eclipse-workspace\newlbmlist\src\mylbm.py
+7=D:\eclipse-workspace\newlbmlist\src\createlbmlist.py
+1=D:\eclipse-workspace\newlbmlist\src\findcase.py
+4=findcase2
+3=D:\eclipse-workspace\newlbmlist\src\findcase2.py
+-- END DICTIONARY
+-- START TREE 1
+11
+adc|1|adchar!1^23#9*19@
+cas|7|case_path!1^6#1*19@case_file_name!1^16#5*19@case_name!3^17#9*35@case_name!1^17#5*19@case_file!1^27#9*19@case_file_name!3^16#9*35@case_path!3^5#1*35@
+cnt|4|cnt!1^12#1*19@cnt!5^10#1*51@cnt!7^10#1*67@cnt!3^11#1*35@
+cod|1|coding!1^24#9*19@
+con|1|content!1^22#9*19@
+get|1|GetModulename!9^4#5*82@
+lbm|12|lbm_path_new!5^5#1*51@lbm_path_new!7^5#1*67@lbm_file_name!7^14#9*67@lbm_cnt!9^18#1*83@lbmcase!1^13#1*19@lbm_name!9^23#13*83@lbm_list!7^6#1*67@lbm_name!7^15#9*67@lbm_file_name!5^14#9*51@lbmcase!3^12#1*35@lbm_name!5^15#9*51@lbm_list!5^6#1*51@
+mod|3|module!9^24#13*83@module!7^16#9*67@module!5^16#9*51@
+pos|4|pos!7^19#17*67@pos!3^23#21*35@pos!5^19#17*51@pos!1^28#9*19@
+src|1|src_path!9^15#1*83@
+str|1|str!9^33#13*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

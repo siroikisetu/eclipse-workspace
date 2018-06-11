@@ -1,0 +1,84 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\testpy\com.python.pydev.analysis\v2_indexcache
+doctest_t|1527140972326085000|D:\eclipse-workspace\testpy\src\doctest_t.py
+yield_test|1525744665116585000|D:\eclipse-workspace\testpy\src\yield_test.py
+string_m|1525678525388508000|D:\eclipse-workspace\testpy\src\string_m.py
+test|1524651052484785000|D:\eclipse-workspace\testpy\src\test.py
+class2|1523956186306462000|D:\eclipse-workspace\testpy\src\class2.py
+pickle_t|1525836547144890000|D:\eclipse-workspace\testpy\src\pickle_t.py
+os_module|1525253440194522000|D:\eclipse-workspace\testpy\src\os_module.py
+class|1523955982922202000|D:\eclipse-workspace\testpy\src\class.py
+datetime_test|1527140477654689000|D:\eclipse-workspace\testpy\src\datetime_test.py
+url_test|1527140349614986000|D:\eclipse-workspace\testpy\src\url_test.py
+-- END DISKCACHE
+-- START DICTIONARY
+26
+5=D:\eclipse-workspace\testpy\src\doctest_t.py
+23=Person.__init__
+14=string_m
+17=D:\eclipse-workspace\testpy\src\class2.py
+26=Teacher.__init__
+11=D:\eclipse-workspace\testpy\src\yield_test.py
+16=url_test
+13=D:\eclipse-workspace\testpy\src\string_m.py
+12=yield_test
+2=class
+4=datetime_test
+25=Student.__init__
+3=D:\eclipse-workspace\testpy\src\datetime_test.py
+6=doctest_t
+15=D:\eclipse-workspace\testpy\src\url_test.py
+20=Teacher
+8=os_module
+21=Student
+7=D:\eclipse-workspace\testpy\src\os_module.py
+18=class2
+1=D:\eclipse-workspace\testpy\src\class.py
+10=pickle_t
+19=SchoolMember
+24=SchoolMember.__init__
+9=D:\eclipse-workspace\testpy\src\pickle_t.py
+22=Person
+-- END DICTIONARY
+-- START TREE 1
+27
+a|1|a!1^9#1*19@
+age|1|age!3^6#1*35@
+ave|1|average!5^2#5*50@
+bir|1|birthday!3^4#1*35@
+cur|1|cur_dir!7^5#1*67@
+dat|1|data1!9^7#1*83@
+dir|1|dir!7^13#1*67@
+f|1|f!11^16#1*99@
+fil|1|file!7^18#1*67@
+fp|1|fp!7^20#5*67@
+fun|1|fun!11^12#5*98@
+int|1|intab!13^65#1*115@
+it|1|it!11^5#1*99@
+lin|1|line!15^3#5*131@
+lis|1|list!11^4#1*99@
+mem|1|members!17^34#1*147@
+now|1|now!3^5#1*35@
+out|2|output!9^12#1*83@outtab!13^66#1*115@
+per|1|Person!1^3#7*17@
+s|1|s!17^31#1*147@
+sch|1|SchoolMember!17^2#7*145@
+sel|1|selfref_list!9^9#1*83@
+str|4|str!13^16#1*115@str2!13^27#1*115@strx!13^17#1*115@str1!13^23#1*115@
+stu|1|Student!17^20#7*145@
+t|1|t!17^30#1*147@
+tea|1|Teacher!17^11#7*145@
+tra|1|trantab!13^67#1*115@
+-- END TREE
+-- START TREE 2
+8
+__i|4|__init__!19&17^4#9*146@__init__!20&17^13#9*146@__init__!21&17^22#9*146@__init__!22&1^6#9*18@
+__n|1|__name!23&1^7#9*19@
+age|1|age!24&17^6#9*147@
+mar|1|marks!25&17^24#9*147@
+nam|1|name!24&17^5#9*147@
+sal|1|salary!26&17^15#9*147@
+say|1|SayHello!22&1^4#9*18@
+tel|3|tell!19&17^8#9*146@tell!20&17^17#9*146@tell!21&17^26#9*146@
+-- END TREE

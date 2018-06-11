@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\mysqldb\com.python.pydev.analysis\v2_indexcache
+db_t1|1527556414618919000|D:\eclipse-workspace\mysqldb\src\db_t1.py
+connector_t|1527581106368133000|D:\eclipse-workspace\mysqldb\src\connector_t.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=db_t1
+1=D:\eclipse-workspace\mysqldb\src\connector_t.py
+3=D:\eclipse-workspace\mysqldb\src\db_t1.py
+2=connector_t
+-- END DICTIONARY
+-- START TREE 1
+8
+add|1|addsql!1^21#5*19@
+con|1|conn!1^16#5*19@
+cur|2|cursor!1^17#5*19@cursor!3^14#1*35@
+dat|2|data!3^20#1*35@data!1^23#5*19@
+db|1|db!3^11#1*35@
+nam|1|name!1^22#5*19@
+pri|1|printstu!1^5#5*18@
+upd|1|updsql!1^29#5*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

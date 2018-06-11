@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\UI\com.python.pydev.analysis\v2_indexcache
+TKinter_t|1527587422625798000|D:\eclipse-workspace\UI\src\TKinter_t.py
+tkinter_t3|1527670700477341000|D:\eclipse-workspace\UI\src\tkinter_t3.py
+tkinter_t2|1527668996898207000|D:\eclipse-workspace\UI\src\tkinter_t2.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+9=Application.createWidgets
+1=D:\eclipse-workspace\UI\src\TKinter_t.py
+3=D:\eclipse-workspace\UI\src\tkinter_t3.py
+5=D:\eclipse-workspace\UI\src\tkinter_t2.py
+7=Calculator
+2=TKinter_t
+4=tkinter_t3
+6=tkinter_t2
+8=Application
+-- END DICTIONARY
+-- START TREE 1
+6
+app|2|app!1^21#1*19@Application!1^5#7*17@
+cal|1|Calculator!3^4#7*33@
+li|1|li!5^6#1*51@
+lis|2|listb2!5^9#1*51@listb!5^8#1*51@
+mov|1|movie!5^7#1*51@
+roo|1|root!5^4#1*51@
+-- END TREE
+-- START TREE 2
+5
+__i|2|__init__!7&3^5#10*34@__init__!8&1^6#9*18@
+ale|1|alertButton!9&1^14#9*19@
+cre|1|createWidgets!8&1^11#9*18@
+hel|1|hello!8&1^17#9*18@
+nam|1|nameInput!9&1^12#9*19@
+-- END TREE

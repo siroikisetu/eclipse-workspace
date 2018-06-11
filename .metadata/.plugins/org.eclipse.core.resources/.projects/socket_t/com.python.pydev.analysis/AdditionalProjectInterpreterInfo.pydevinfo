@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\socket_t\com.python.pydev.analysis\v2_indexcache
+server|1527146151995871000|D:\eclipse-workspace\socket_t\src\server.py
+client|1527211800544609000|D:\eclipse-workspace\socket_t\src\client.py
+server2|1527211792945483000|D:\eclipse-workspace\socket_t\src\server2.py
+-- END DISKCACHE
+-- START DICTIONARY
+7
+2=server
+5=D:\eclipse-workspace\socket_t\src\server2.py
+4=client
+6=server2
+7=MyServer
+1=D:\eclipse-workspace\socket_t\src\server.py
+3=D:\eclipse-workspace\socket_t\src\client.py
+-- END DICTIONARY
+-- START TREE 1
+8
+acc|2|accept_data!1^27#9*19@accept_data!3^26#5*35@
+hos|1|host!1^11#1*19@
+msg|1|msg!1^31#9*19@
+mys|1|MyServer!5^6#7*49@
+por|1|port!1^13#1*19@
+sen|1|send_data!3^22#5*35@
+sev|1|sever!5^27#5*51@
+sk|2|sk!3^19#1*35@sk!1^8#1*19@
+-- END TREE
+-- START TREE 2
+1
+han|1|handle!7&5^7#9*50@
+-- END TREE

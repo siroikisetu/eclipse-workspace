@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_2
+D:\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\threadtest\com.python.pydev.analysis\v2_indexcache
+thread_t1|1527235257218192000|D:\eclipse-workspace\threadtest\src\thread_t1.py
+thread_t|1527235118133258000|D:\eclipse-workspace\threadtest\src\thread_t.py
+threadtest1|1524640524309738000|D:\eclipse-workspace\threadtest\src\threadtest1.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+4=thread_t1
+8=Counter
+12=Counter.increment
+1=D:\eclipse-workspace\threadtest\src\threadtest1.py
+5=D:\eclipse-workspace\threadtest\src\thread_t.py
+9=myThread.__init__
+11=Worker
+6=thread_t
+3=D:\eclipse-workspace\threadtest\src\thread_t1.py
+10=Counter.__init__
+7=myThread
+2=threadtest1
+-- END DICTIONARY
+-- START TREE 1
+9
+cou|2|Counter!1^3#7*17@counter!1^12#1*19@
+exi|1|exitFlag!3^6#1*35@
+myt|2|myThread!3^8#7*33@myThread!5^5#7*49@
+nam|1|nameList!3^31#1*35@
+pri|1|print_time!5^19#5*50@
+pro|1|process_data!3^19#5*34@
+que|1|queueLock!3^32#1*35@
+thr|8|thread!3^39#5*35@thread2!5^30#1*51@threadID!3^35#1*35@thread1!5^29#1*51@threads!5^26#1*51@threadList!3^30#1*35@threads!3^34#1*35@threadLock!5^25#1*51@
+wor|2|workQueue!3^33#1*35@Worker!1^13#7*17@
+-- END TREE
+-- START TREE 2
+9
+__i|3|__init__!7&5^6#9*50@__init__!8&1^4#9*18@__init__!7&3^9#9*34@
+cou|1|counter!9&5^10#9*51@
+inc|1|increment!8&1^7#9*18@
+loc|1|lock!10&1^5#9*19@
+nam|2|name!9&5^9#9*51@name!9&3^12#9*35@
+q|1|q!9&3^13#9*35@
+run|3|run!7&3^14#9*34@run!11&1^14#9*18@run!7&5^11#9*50@
+thr|2|threadID!9&3^11#9*35@threadID!9&5^8#9*51@
+val|2|value!10&1^6#9*19@value!12&1^9#9*19@
+-- END TREE
